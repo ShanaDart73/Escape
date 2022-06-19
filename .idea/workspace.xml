@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="44ea774a-3aed-4365-a92f-1fbf09119991" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/Escape.iml" afterDir="false" />
@@ -68,5 +69,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+=======
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+>>>>>>> origin/main
   </component>
 </project>
